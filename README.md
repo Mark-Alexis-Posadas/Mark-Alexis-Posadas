@@ -24,11 +24,11 @@ Here are some of the projects I've worked on:
 
 ## GitHub Stats
 
-![Mark-Alexis-Posadas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Mark-Alexis-Posadas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mark-alexis-posadas&show_icons=true&theme=radical)
 
 ## Total Contributions
 
-[![Mark-Alexis-Posadas's Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://github.com/yourusername)
+[![Mark-Alexis-Posadas's Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mark-alexis-posadas&theme=radical)](https://github.com/Mark-Alexis-Posadas)
 
 ## Contact
 
