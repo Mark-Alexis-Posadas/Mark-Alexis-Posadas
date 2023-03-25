@@ -24,7 +24,7 @@ Here are some of the projects I've worked on:
 
 ## GitHub Stats
 
-!Mark Alexis Posadas's GitHub Stats (https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Mark Alexis Posadas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## Total Contributions
 
