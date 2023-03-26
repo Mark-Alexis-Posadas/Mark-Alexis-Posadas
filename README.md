@@ -22,6 +22,10 @@ Here are some of the projects I've worked on:
 - [Project 2](https://example.com/project2)
 - [Project 3](https://example.com/project3)
 
+## Profile Views
+![Profile views](https://gpvc.arturio.dev/Mark-Alexis-Posadas)
+
+
 ## GitHub Stats
 
 ![Mark-Alexis-Posadas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mark-alexis-posadas&show_icons=true&theme=radical)
